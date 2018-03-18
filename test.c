@@ -6,5 +6,6 @@ void main() {
 	printf("local commit");
 	printf("remote commit");
 	printf("some fix");
+	printf("branch print");
 
 }
