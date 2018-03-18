@@ -5,5 +5,6 @@ void main() {
 	printf("change");
 	printf("local commit");
 	printf("remote commit");
+	printf("some fix");
 
 }
